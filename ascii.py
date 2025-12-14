@@ -1,0 +1,6 @@
+a=input("enter the character:")
+b=ord(a)
+print(b)
+c=input("enter a character:")
+d=ord(c)
+print(d)
